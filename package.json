@@ -12,5 +12,8 @@
     "etherum"
   ],
   "author": "Renato Mercado Luna",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "solc": "^0.4.17"
+  }
 }
