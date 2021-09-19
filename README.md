@@ -1,5 +1,6 @@
-### Test on smart contracts
+### Inbox Smart Contract
 
+Smart contract
 OnGoing Project ⚒
 
 ## Configuration
