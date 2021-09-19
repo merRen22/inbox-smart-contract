@@ -1,6 +1,6 @@
 ### Inbox Smart Contract
 
-Smart contract
+Smart contract with NodeJs
 OnGoing Project ⚒
 
 ## Configuration
