@@ -17,3 +17,13 @@ Smart contract with NodeJs. This project is a test on how to build a simple smar
 ## Test
 
 The basic flow consist on the compiler taking the contract source code and genereting the bytecode and an ABI ( interface ). The bytecode will be deploy on a local test network using Ganache and the ABI will be feed to Web3 so we have programmatinc access.
+
+To run the test use this command 👇
+
+`npm run test`
+
+## Deploy
+
+To compile and deploy the contract create a `.env` file and fill the url of the api in Infura and your mnemonic from your wallet. Finally use this command 👇
+
+`node deploy.js`
