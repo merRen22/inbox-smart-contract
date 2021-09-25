@@ -1,7 +1,6 @@
 ### Inbox Smart Contract
 
-Smart contract with NodeJs
-OnGoing Project ⚒
+Smart contract with NodeJs. This project is a test on how to build a simple smart contract for storing a string and reading it. The contract is deployed to rinkeby testnet. Can be found [here](https://rinkeby.etherscan.io/address/0xe6eF96f0318b38Ef6a2Ce212EAD0ef4266931427)
 
 ## Configuration
 
